@@ -1,5 +1,4 @@
-# libstdc-C-
-**libstdc++、C++相关备份**
+**libstdc++、c++相关备份**
 
 ## 将 libstdc++6.0.9等SDK复制到:
 
